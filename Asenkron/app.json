@@ -1,0 +1,51 @@
+[
+    {
+        "Id" : 1 ,
+       "isim": "Mert",
+       "soyisim" : "Durak" ,
+       "sınıf" : 11
+    },
+    {
+        "Id" : 2 ,
+       "isim": "Betül",
+       "soyisim" : "Şimşek" ,
+       "sınıf" : 11
+    },
+    {
+        "Id" : 3 ,
+       "isim": "Nergiz",
+       "soyisim" : "Çiçek" ,
+       "sınıf" : 11
+    },
+    {
+        "Id" : 4 ,
+       "isim": "İpek",
+       "soyisim" : "İlhan" ,
+       "sınıf" : 11
+    },
+    {
+        "Id" : 5 ,
+       "isim": "Özlem",
+       "soyisim" : "Demir" ,
+       "sınıf" : 11
+    },
+    {
+        "Id" : 6 ,
+       "isim": "Selin",
+       "soyisim" : "Gürsoy" ,
+       "sınıf" : 11
+    },
+    {
+        "Id" : 7 ,
+       "isim": "Hazal",
+       "soyisim" : "Yurdakul" ,
+       "sınıf" : 11
+    },
+    {
+        "Id" : 8 ,
+       "isim": "Fatma",
+       "soyisim" : "Dinç" ,
+       "sınıf" : 11
+    }
+
+]
